@@ -44,3 +44,9 @@ nav .dropdpwn {
 .dropdown:hover .dropdown-content {display: block;}
 
 .dropdown:hover .dropbtn {background-color: #d73434;}
+
+/*Text*/
+
+p{
+  font-size: 2em;
+}
