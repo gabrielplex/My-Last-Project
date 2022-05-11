@@ -47,6 +47,14 @@ nav .dropdpwn {
 
 /*Text*/
 
-p{
+p {
   font-size: 2em;
+}
+
+/*Image*/
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
