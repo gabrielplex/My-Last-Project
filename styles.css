@@ -48,13 +48,23 @@ nav .dropdpwn {
 /*Text*/
 
 p {
-  font-size: 2em;
+  font-size: 2.5em;
 }
 
-/*Image*/
+.fontadjust {
+  font-size: 3em;
+}
+
+/*Images*/
 
 img {
   width: 100%;
-  height: auto;
-  display: block;
+  height: 50%;
+}
+
+/*Flexbox*/
+
+.flexbox {
+  display: flex;
+  flex-direction: row-reverse;
 }
