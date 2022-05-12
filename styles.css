@@ -51,15 +51,11 @@ p {
   font-size: 2.5em;
 }
 
-.fontadjust {
-  font-size: 3em;
-}
-
 /*Images*/
 
 img {
   width: 100%;
-  height: 50%;
+  height: auto;
 }
 
 /*Flexbox*/
