@@ -48,7 +48,12 @@ nav .dropdpwn {
 /*Text*/
 
 p {
-  font-size: 2.5em;
+  font-size: 3.5em;
+  background-color: white;
+}
+
+h1 {
+  color: white;
 }
 
 /*Images*/
@@ -63,4 +68,10 @@ img {
 .flexbox {
   display: flex;
   flex-direction: row-reverse;
+}
+
+/*Background Color*/
+
+.body {
+  background-color: black;
 }
