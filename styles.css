@@ -7,7 +7,6 @@ nav ul {
   display: flex;
   background-color: rgb(80, 80, 80);
   color: white;
-  margin: 0rem;
   padding: 0;
   justify-content: center;
   align-items: center;
@@ -22,7 +21,8 @@ nav ul {
 .toplevel a {
   color: white;
   text-decoration: none;
-  padding: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 /*Navigation Dropdown*/
@@ -49,8 +49,10 @@ nav .dropdpwn {
 /*Text*/
 
 p {
-  font-size: 50px;
   font-family: "Times New Roman", Times, serif;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 3vw;
 }
 
 h1 {
@@ -60,8 +62,8 @@ h1 {
 /*Images*/
 
 img {
-  width: 100%;
-  height: auto;
+  width: 100vw;
+  height: 19vw;
 }
 
 /*Flexbox*/
@@ -73,6 +75,3 @@ img {
 
 /*Background Color*/
 
-.body {
-  background-color: black;
-}
