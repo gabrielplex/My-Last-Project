@@ -25,6 +25,17 @@ nav ul {
   padding-right: 20px;
 }
 
+.bottomlevel li {
+  list-style-type: none;
+}
+
+.bottomlevel a {
+  color: white;
+  text-decoration: none;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
 /*Navigation Dropdown*/
 nav .dropdpwn {
   position: relative;
