@@ -61,20 +61,21 @@ nav .dropdpwn {
 
 p {
   font-family: "Times New Roman", Times, serif;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-left: 3vw;
+  padding-right: 3vw;
   font-size: 3vw;
 }
 
 h1 {
   color: white;
+  font-size: 5vw;
 }
 
 /*Images*/
 
-img {
-  width: 100vw;
-  height: 19vw;
+.autosize {
+  width: 99vw;
+  height:auto;
 }
 
 /*Flexbox*/
